@@ -1,17 +1,19 @@
-<h1 align="center">Hi 👋, I'm Amayuru</h1>
-<h3 align="center">A passionate full stack developer from Srilanka</h3>
+<h1 align="center">Hi 👋, I'm Amayuru Upanith</h1>
+<h3 align="center">A passionate Software Engineer from Srilanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amayuru1999&label=Profile%20views&color=0e75b6&style=flat" alt="amayuru1999" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amayuru1999" alt="amayuru1999" /></a> </p>
 
-- 🔭 I’m currently working on **MetaRoon Labs**
+- 🔭 I’m currently working on **MetaRoon Labs(PVT) Ltd**
 
 - 🌱 I’m currently learning **Terraform and AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Amayuru1999](https://github.com/Amayuru1999)
 
 - 📫 How to reach me **amarasingheau@gmail.com**
+  
+- ⚡Please find my articles [https://medium.com/@amarasingheau](https://medium.com/@amarasingheau)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
