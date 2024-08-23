@@ -15,7 +15,10 @@
 
 - 📫 How to reach me **amarasingheau@gmail.com**
   
-- ⚡Please find my articles [https://medium.com/@amarasingheau](https://medium.com/@amarasingheau)
+- ⚡ My articles on Medium:
+  - [Article 1 Title](https://medium.com/@amarasingheau/article1)
+  - [Article 2 Title](https://medium.com/@amarasingheau/article2)
+  - [Article 3 Title](https://medium.com/@amarasingheau/article3)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
