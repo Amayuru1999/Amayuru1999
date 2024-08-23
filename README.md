@@ -18,8 +18,8 @@
 ## My Latest Medium Articles
 
 [![Article Title](https://miro.medium.com/v2/resize:fit:640/format:webp/1*hFlCzwNPg9GUm2G6WXlOig.png)]([Article_URL](https://medium.com/@amarasingheau/what-is-amazon-ec2-94c07567a625))
-[![Another Article Title]([Another_Thumbnail_URL](https://miro.medium.com/v2/resize:fit:640/format:webp/1*dTmjFaRR15cp6Sy0pLrk0g.png))]([Another_Article_URL](https://medium.com/@amarasingheau/complete-guide-to-dockerize-react-app-15f00d14c71c))
-[![Another Article Title1]([Another_Thumbnail_URL1](https://miro.medium.com/v2/resize:fit:720/format:webp/0*GL76XZ_KL6N0eqc8))]([Another_Article_URL1](https://medium.com/@amarasingheau/what-is-docker-18b1b8e019ab))
+[![Another Article Title](https://miro.medium.com/v2/resize:fit:640/format:webp/1*dTmjFaRR15cp6Sy0pLrk0g.png)](https://medium.com/@amarasingheau/complete-guide-to-dockerize-react-app-15f00d14c71c)
+[![Another Article Title1](https://miro.medium.com/v2/resize:fit:720/format:webp/0*GL76XZ_KL6N0eqc8)](https://medium.com/@amarasingheau/what-is-docker-18b1b8e019ab)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
