@@ -18,19 +18,20 @@
 ## My Latest Medium Articles
 
 <p align="center">
-  <a href="https://medium.com/@amarasingheau/what-is-amazon-ec2-94c07567a625">
+  <a href="https://medium.com/@amarasingheau/what-is-amazon-ec2-94c07567a625" style="display: inline-block; text-align: center; margin: 0 10px;">
     <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*hFlCzwNPg9GUm2G6WXlOig.png" alt="What is Amazon EC2?" width="200">
-    <p align="centre"><b>What is Amazon EC2?</b><br>An introduction to Amazon's Elastic Compute Cloud (EC2) service, explaining its benefits and how to use it.</p>
+    <br><b>What is Amazon EC2?</b><br>An introduction to Amazon's Elastic Compute Cloud (EC2) service, explaining its benefits and how to use it.
   </a>
-  <a href="https://medium.com/@amarasingheau/complete-guide-to-dockerize-react-app-15f00d14c71c">
+  <a href="https://medium.com/@amarasingheau/complete-guide-to-dockerize-react-app-15f00d14c71c" style="display: inline-block; text-align: center; margin: 0 10px;">
     <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*dTmjFaRR15cp6Sy0pLrk0g.png" alt="Complete Guide to Dockerize React App" width="200">
-    <p align="centre"><b>Complete Guide to Dockerize React App</b><br>A comprehensive guide on how to dockerize a React application for seamless deployment.</p>
+    <br><b>Complete Guide to Dockerize React App</b><br>A comprehensive guide on how to dockerize a React application for seamless deployment.
   </a>
-  <a href="https://medium.com/@amarasingheau/what-is-docker-18b1b8e019ab">
+  <a href="https://medium.com/@amarasingheau/what-is-docker-18b1b8e019ab" style="display: inline-block; text-align: center; margin: 0 10px;">
     <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*GL76XZ_KL6N0eqc8" alt="What is Docker?" width="200">
-    <p align="centre"><b>What is Docker?</b><br>An introductory article on Docker, covering its basic concepts and use cases.</p>
+    <br><b>What is Docker?</b><br>An introductory article on Docker, covering its basic concepts and use cases.
   </a>
 </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
