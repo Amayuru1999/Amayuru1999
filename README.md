@@ -15,10 +15,11 @@
 
 - 📫 How to reach me **amarasingheau@gmail.com**
   
-- ⚡ My articles on Medium:
-  - [Article 1 Title](https://medium.com/@amarasingheau/article1)
-  - [Article 2 Title](https://medium.com/@amarasingheau/article2)
-  - [Article 3 Title](https://medium.com/@amarasingheau/article3)
+## My Latest Medium Articles
+
+[![Article Title](https://miro.medium.com/v2/resize:fit:640/format:webp/1*hFlCzwNPg9GUm2G6WXlOig.png)]([Article_URL](https://medium.com/@amarasingheau/what-is-amazon-ec2-94c07567a625))
+[![Another Article Title](Another_Thumbnail_URL)](Another_Article_URL)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
