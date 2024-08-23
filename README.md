@@ -17,9 +17,17 @@
   
 ## My Latest Medium Articles
 
-[![Article Title](https://miro.medium.com/v2/resize:fit:640/format:webp/1*hFlCzwNPg9GUm2G6WXlOig.png)]([Article_URL](https://medium.com/@amarasingheau/what-is-amazon-ec2-94c07567a625))
-[![Another Article Title](https://miro.medium.com/v2/resize:fit:640/format:webp/1*dTmjFaRR15cp6Sy0pLrk0g.png)](https://medium.com/@amarasingheau/complete-guide-to-dockerize-react-app-15f00d14c71c)
-[![Another Article Title1](https://miro.medium.com/v2/resize:fit:720/format:webp/0*GL76XZ_KL6N0eqc8)](https://medium.com/@amarasingheau/what-is-docker-18b1b8e019ab)
+<p align="center">
+  <a href="https://medium.com/@amarasingheau/what-is-amazon-ec2-94c07567a625">
+    <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*hFlCzwNPg9GUm2G6WXlOig.png" alt="Article Title" width="200">
+  </a>
+  <a href="https://medium.com/@amarasingheau/complete-guide-to-dockerize-react-app-15f00d14c71c">
+    <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*dTmjFaRR15cp6Sy0pLrk0g.png" alt="Another Article Title" width="200">
+  </a>
+  <a href="https://medium.com/@amarasingheau/what-is-docker-18b1b8e019ab">
+    <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*GL76XZ_KL6N0eqc8" alt="Another Article Title1" width="200">
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
