@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amayuru1999" alt="amayuru1999" /></a> </p>
 
-- 🔭 I’m currently working on **MetaRune Labs (PVT) Ltd**
+- 🔭 I’m currently working on <a href="https://www.metarunelabs.dev/">**MetaRune Labs (PVT) Ltd**</a>
 
 - 🌱 I’m currently learning **Terraform and AWS**
 
