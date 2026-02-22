@@ -14,7 +14,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Amayuru1999](https://github.com/Amayuru1999)
 
 - 📫 How to reach me **amarasingheau@gmail.com**
-- 🧑‍🎓 My Website [https://amayuru-github-io.vercel.app/](https://amayuru-github-io.vercel.app/)
+- 🧑‍🎓 My Website [https://amayuru.site/](www.amayuru.site)
   
 ## My Latest Medium Articles
 
